@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Minesweeper",
+	"Description": "Minesweeper game using Slate UI",
+	"Category": "Other",
+	"CreatedBy": "Alexandre Kharlamov",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Minesweeper",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
